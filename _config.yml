@@ -141,7 +141,7 @@ footer:
       url: "https://github.com/gsozog/gsozog.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: 
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
