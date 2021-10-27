@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "2조 최고☺︎"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "gsozog"
@@ -102,14 +102,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "현주"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "현주의 우당탕탕 좌충우돌 개발 성장기"
+  location         : "Seoul"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+    - #label: "Email"
+      i#con: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -138,10 +138,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/gsozog/gsozog.github.io"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
