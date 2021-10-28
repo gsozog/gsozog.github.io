@@ -107,9 +107,9 @@ author:
   bio              : "우당탕탕 좌충우돌 개발자 성장 스토리"
   location         : "Seoul"
   email            :
-  links
+  links:
     - #label: "Email"
-      i#con: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/gsozog/gsozog.github.io"
+      # url: "https://github.com/gsozog/gsozog.github.io"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url: 
